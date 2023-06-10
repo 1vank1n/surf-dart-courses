@@ -57,6 +57,7 @@ mixin MWarp {
 }
 
 class Ogryn extends Person with MMelee, MRange {
+  static const String race = 'ogr';
   final bool isElectricWeapon;
   String? clan;
   Shield? shield;
