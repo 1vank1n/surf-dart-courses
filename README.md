@@ -3,8 +3,50 @@
 Листинг результатов:
 
 ```
-Средний возраст всей техники: 17.91 лет
-Средний возраст самой старой техники: 25.60 лет
+READY
+Person {name: Krokotug, health: 300, toughness: 100} Clan: Imperial Guard
+Person {name: Gilza, health: 150, toughness: 200}
+Person {name: Zub, health: 100, toughness: 200}
+Person {name: Antena, health: 150, toughness: 100}
+START BATTLE
+--------------------
+first creep wave
+Person {name: Krokotug, health: 300, toughness: 100} Clan: Imperial Guard
+Enemy range damaged by 30
+Person {name: Gilza, health: 150, toughness: 200}
+Enemy range damaged by 80
+Person {name: Zub, health: 100, toughness: 200}
+Enemy range damaged by 30
+Person {name: Antena, health: 150, toughness: 100}
+Enemy range damaged by 30
+Total damage: 170
+--------------------
+second creep wave
+Person {name: Krokotug, health: 300, toughness: 100} Clan: Imperial Guard
+Enemy melee damaged by 120
+Person {name: Gilza, health: 150, toughness: 200}
+Enemy range damaged by 80
+Enemy grenage damaged by 140
+Person {name: Zub, health: 100, toughness: 200}
+Enemy range damaged by 30
+Enemy grenage damaged by 120
+Person {name: Antena, health: 150, toughness: 100}
+Enemy melee damaged by 40
+Enemy range damaged by 200
+Total damage: 730
+--------------------
+third creep wave
+Person {name: Krokotug, health: 300, toughness: 100} Clan: Imperial Guard
+Enemy melee damaged by 120
+Person {name: Gilza, health: 150, toughness: 200}
+Enemy melee damaged by 40
+Person {name: Zub, health: 100, toughness: 200}
+Enemy melee damaged by 70
+Person {name: Antena, health: 150, toughness: 100}
+Enemy melee damaged by 40
+Enemy range damaged by 200
+Total damage: 470
+END BATTLE
 ```
 
 ## Description
@@ -13,7 +55,7 @@
 
 ## How to
 
-`fvm dart bin/travka_muravka.dart`
+`fvm dart bin/real_object.dart`
 
 ## Problems
 
@@ -21,4 +63,4 @@
 
 ## More
 
-Можно ли использовать в решении простых задач стандартные пакеты типа `package:collection/collection.dart`? Или не стоит?
+Наиболее подробно описан класс `Ogryn`, чтобы показать все необходимые свойства и иерархию.
