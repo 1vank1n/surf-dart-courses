@@ -3,8 +3,20 @@
 Листинг результатов:
 
 ```
-Средний возраст всей техники: 17.91 лет
-Средний возраст самой старой техники: 25.60 лет
+Team Spirit [Dota2] / Russia
+
+Players:
+Ilya Yatoro Mulyarchuk » [Team Spirit [Dota2] / Russia] on carry
+Denis Lari Sigitov » [Team Spirit [Dota2] / Russia] on midlane
+Magomed Collapse Khalilov » [Team Spirit [Dota2] / Russia] on offlane
+Miroslaw Mira Kolpakov » [Team Spirit [Dota2] / Russia] on semisupport
+Yaroslav Miposhka Naidenov » [Team Spirit [Dota2] / Russia] on support
+Gaziyev Airat » [Team Spirit [Dota2] / Russia] on coach
+
+Tropheis:
+BTS Pro Series Season 4: Europe/CIS / 2020
+Dota 2 Champions League 2021 Season 1 Grand Final / 2021
+The International 2021 / 2021
 ```
 
 ## Description
@@ -13,7 +25,7 @@
 
 ## How to
 
-`fvm dart bin/travka_muravka.dart`
+`fvm dart bin/sport.dart`
 
 ## Problems
 
@@ -21,4 +33,4 @@
 
 ## More
 
-Можно ли использовать в решении простых задач стандартные пакеты типа `package:collection/collection.dart`? Или не стоит?
+—
