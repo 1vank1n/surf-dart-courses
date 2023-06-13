@@ -1,23 +1,19 @@
 # Description of your result
 
-Листинг результатов:
-
-```
-[King of clubs, Nine of hearts]
-```
+You can describe your results in any language that is convenient for you, not just English.
 
 ## Description
 
-Выполнено задание.
+[Describe what you have done]
 
 ## How to
 
-`fvm dart bin/poker.dart`
+[Describe how to run your application if there are any issues]
 
 ## Problems
 
-—
+[Describe the problems you encountered]
 
 ## More
 
-Или я что-то не так понял или задание очень лёгкое. 2 строчки дописать только пришлось.
+[Here you can brag about what you managed to implement or do something beyond the task]
