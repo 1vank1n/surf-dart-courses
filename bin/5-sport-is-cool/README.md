@@ -25,7 +25,7 @@ The International 2021 / 2021
 
 ## How to
 
-`fvm dart bin/sport.dart`
+`fvm dart bin/5-sport-is-cool/sport.dart`
 
 ## Problems
 
