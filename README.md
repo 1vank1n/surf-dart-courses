@@ -1,24 +1,19 @@
 # Description of your result
 
-Листинг результатов:
-
-```
-Средний возраст всей техники: 17.91 лет
-Средний возраст самой старой техники: 25.60 лет
-```
+You can describe your results in any language that is convenient for you, not just English.
 
 ## Description
 
-Выполнено задание.
+[Describe what you have done]
 
 ## How to
 
-`fvm dart bin/travka_muravka.dart`
+[Describe how to run your application if there are any issues]
 
 ## Problems
 
-—
+[Describe the problems you encountered]
 
 ## More
 
-Можно ли использовать в решении простых задач стандартные пакеты типа `package:collection/collection.dart`? Или не стоит?
+[Here you can brag about what you managed to implement or do something beyond the task]
