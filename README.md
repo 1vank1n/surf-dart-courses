@@ -1,60 +1,19 @@
 # Description of your result
 
-Листинг результатов:
-
-```
-Все товары:
-
-id	category	name	price	quantity
-1	хлеб	Бородинский	500.0	5
-2	хлеб	Белый	200.0	15
-3	молоко	Полосатый кот	50.0	53
-4	молоко	Коровка	50.0	53
-5	вода	Апельсин	25.0	100
-6	вода	Бородинский	500.0	5
-
-
-Товары отфильтрованные по категории хлеб:
-id	category	name	price	quantity
-1	хлеб	Бородинский	500.0	5
-2	хлеб	Белый	200.0	15
-
-
-Товары отфильтрованные по цене ниже 50 руб:
-id	category	name	price	quantity
-3	молоко	Полосатый кот	50.0	53
-4	молоко	Коровка	50.0	53
-5	вода	Апельсин	25.0	100
-
-
-Товары отфильтрованные по количеству остатков на складе меньше 5:
-id	category	name	price	quantity
-1	хлеб	Бородинский	500.0	5
-6	вода	Бородинский	500.0	5
-
-
-все товары, стоимость которой до/равно 500:
-id	category	name	price	quantity
-1	хлеб	Бородинский	500.0	5
-2	хлеб	Белый	200.0	15
-3	молоко	Полосатый кот	50.0	53
-4	молоко	Коровка	50.0	53
-5	вода	Апельсин	25.0	100
-6	вода	Бородинский	500.0	5
-```
+You can describe your results in any language that is convenient for you, not just English.
 
 ## Description
 
-Выполнено задание.
+[Describe what you have done]
 
 ## How to
 
-`fvm dart bin/filter_items.dart`
+[Describe how to run your application if there are any issues]
 
 ## Problems
 
-—
+[Describe the problems you encountered]
 
 ## More
 
-—
+[Here you can brag about what you managed to implement or do something beyond the task]
