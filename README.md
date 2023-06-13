@@ -1,36 +1,19 @@
 # Description of your result
 
-Листинг результатов:
-
-```
-Team Spirit [Dota2] / Russia
-
-Players:
-Ilya Yatoro Mulyarchuk » [Team Spirit [Dota2] / Russia] on carry
-Denis Lari Sigitov » [Team Spirit [Dota2] / Russia] on midlane
-Magomed Collapse Khalilov » [Team Spirit [Dota2] / Russia] on offlane
-Miroslaw Mira Kolpakov » [Team Spirit [Dota2] / Russia] on semisupport
-Yaroslav Miposhka Naidenov » [Team Spirit [Dota2] / Russia] on support
-Gaziyev Airat » [Team Spirit [Dota2] / Russia] on coach
-
-Tropheis:
-BTS Pro Series Season 4: Europe/CIS / 2020
-Dota 2 Champions League 2021 Season 1 Grand Final / 2021
-The International 2021 / 2021
-```
+You can describe your results in any language that is convenient for you, not just English.
 
 ## Description
 
-Выполнено задание.
+[Describe what you have done]
 
 ## How to
 
-`fvm dart bin/sport.dart`
+[Describe how to run your application if there are any issues]
 
 ## Problems
 
-—
+[Describe the problems you encountered]
 
 ## More
 
-—
+[Here you can brag about what you managed to implement or do something beyond the task]
